@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: curse-of-strahd-han.netlify.app
+  baseUrl: https://curse-of-strahd-han.netlify.app/
   ignorePatterns:
     - private
     - templates
