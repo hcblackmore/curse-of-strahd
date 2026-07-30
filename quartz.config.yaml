@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://curse-of-strahd-han.netlify.app
+  baseUrl: curse-of-strahd-han.netlify.app
   ignorePatterns:
     - private
     - templates
@@ -138,6 +138,8 @@ plugins:
       display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
+    options:
+      enableCaseRedirects: false
   - source: "@quartz-community/content-index"
     enabled: true
     options:
