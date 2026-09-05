@@ -4,6 +4,15 @@
   "calendarId": "barovia-calendar",
   "year": 735,
   "days": {
+    "9-28": {
+      "items": [
+        {
+          "id": "arabel-frv2nzzv",
+          "title": "Arabelle's Birthday",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
     "9-26": {
       "items": [
         {
@@ -41,6 +50,15 @@
         {
           "id": "dusk-e-ziz6oe0u",
           "title": "Dusk Elf Omen",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "9-27": {
+      "items": [
+        {
+          "id": "reach--fs94ul6y",
+          "title": "Reach Tser Pool",
           "color": "#4e3e3e"
         }
       ]
