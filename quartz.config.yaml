@@ -108,13 +108,6 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-  - source: "@quartz-community/quartz-fonts"
-    enabled: true
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: default
-      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -286,10 +279,13 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-themes/core"
-    options:
-      theme: "its-theme"
-      variation: "ttrpg-wotc"
-      mode: "both"
+    enabled: true
+    options: 
+      theme: its-theme
+      variation: ttrpg-wotc
+      mode: both
+  - source: "@quartz-community/quartz-fonts"
+    enabled: true
 layout:
   groups:
     toolbar:
