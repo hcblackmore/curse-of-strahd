@@ -1,3 +1,9 @@
+---
+status: dead
+ally: false
+location met: Durst Manor
+current location: the ruins of durst manor
+---
 ![[Pasted image 20260719160840.png]]
 Married to [[Gustov]]
 Mother to [[Thornboldt]] and [[Rosavald]]

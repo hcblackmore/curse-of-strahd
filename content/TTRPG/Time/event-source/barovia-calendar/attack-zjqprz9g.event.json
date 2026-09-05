@@ -1,0 +1,16 @@
+{
+  "id": "attack-zjqprz9g",
+  "calendarId": "barovia-calendar",
+  "title": "Attack on Ravenloft",
+  "date": {
+    "year": 735,
+    "monthIndex": 6,
+    "day": 17
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "weatherPackId": "general",
+  "noteRef": "Welcome to Barovia/attack on Ravenloft.md",
+  "createdAt": "2026-08-02T15:59:11.103Z",
+  "updatedAt": "2026-08-07T22:18:19.770Z"
+}

@@ -12,6 +12,7 @@ My notes are split up into sections:
 			Holds the over all notes for each session
 		Death House 
 			Contains the more detailed notes of thing with found and people we talked to durring death house
-		Next Section 
-			Contains the Notes for the next section we are getting into that we dont know a name of yet
+		Welcome to Barovia
+			Contains the Notes for Welcome to Barovia
 
+Current Quest: [[find gerolt]]

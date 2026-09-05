@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "barovia-calendar",
+  "name": "Barovia Calendar",
+  "definition": {
+    "id": "barovia-calendar",
+    "name": "Barovia Calendar",
+    "eraLabel": "ERA",
+    "weekdays": [
+      "RAU",
+      "ZAR",
+      "VEL",
+      "KRA",
+      "LUM",
+      "GEL",
+      "CUM"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Yinvar",
+        "days": 28
+      },
+      {
+        "id": "month-2",
+        "name": "Fivral",
+        "days": 28
+      },
+      {
+        "id": "month-3",
+        "name": "Mart",
+        "days": 28
+      },
+      {
+        "id": "month-4",
+        "name": "Apryl",
+        "days": 28
+      },
+      {
+        "id": "month-5",
+        "name": "Mai",
+        "days": 28
+      },
+      {
+        "id": "month-6",
+        "name": "Eyune",
+        "days": 28
+      },
+      {
+        "id": "month-7",
+        "name": "Eyule",
+        "days": 28
+      },
+      {
+        "id": "month-8",
+        "name": "Avgust",
+        "days": 28
+      },
+      {
+        "id": "month-9",
+        "name": "Sintyavr",
+        "days": 28
+      },
+      {
+        "id": "month-10",
+        "name": "Octyavr",
+        "days": 28
+      },
+      {
+        "id": "month-11",
+        "name": "Neyavr",
+        "days": 28
+      },
+      {
+        "id": "month-12",
+        "name": "Dekavr",
+        "days": 28
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "intercalaryDays": [],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Era 1",
+        "shortName": "ERA",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "endYear": 0,
+        "endMonthIndex": 11,
+        "endDay": 28,
+        "startDay": 1
+      }
+    ],
+    "moons": [],
+    "yearNames": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 271,
+        "endDay": 336,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": false,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "year",
+    "todayDate": {
+      "year": 735,
+      "monthIndex": 9,
+      "day": 25
+    },
+    "cursorDate": {
+      "year": 735,
+      "monthIndex": 9,
+      "day": 26
+    }
+  },
+  "linkedTagPackIds": [],
+  "linkedWeatherPackIds": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": []
+}

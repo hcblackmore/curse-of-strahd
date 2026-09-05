@@ -1,0 +1,15 @@
+{
+  "id": "gerolt-egz9evl8",
+  "calendarId": "barovia-calendar",
+  "title": "Gerolt Leaves",
+  "date": {
+    "year": 735,
+    "monthIndex": 9,
+    "day": 26
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "noteRef": "quests/find gerolt.md",
+  "createdAt": "2026-08-08T13:19:05.858Z",
+  "updatedAt": "2026-08-08T13:19:05.858Z"
+}

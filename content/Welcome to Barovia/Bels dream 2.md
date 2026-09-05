@@ -1,0 +1,10 @@
+- Bels dream -2
+	- back to being a piggy
+	- on the threshold of a church
+	- empty church, maybe abandoned - dusty
+	- hatch to basement- head on down
+	- hissing noise - coming from the corner of the ceiling
+	- bat in the ceiling - half black half white
+	- bat cuts itself off from hissing and cuts itself off, stepping forward and back and flying around crazily
+	- the bat is fighting against something
+	- wake up

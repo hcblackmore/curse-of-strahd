@@ -1,3 +1,9 @@
+---
+status: dead
+ally: true
+location met: Durst Manor
+current location: Forest by ruins of Durst Manor
+---
 ![[Pasted image 20260719161052.png]]
 ![[Pasted image 20260719161111.png]]
 7 years old

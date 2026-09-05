@@ -1,3 +1,9 @@
+---
+status: dead
+ally:
+location met: Durst Manor
+current location: the ruins of durst manor
+---
 ![[Pasted image 20260719160808.png]]
 Head of the family
 Married to [[Elizabeth]]

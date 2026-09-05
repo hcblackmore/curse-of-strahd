@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "barovia-calendar",
+  "year": 735,
+  "days": {
+    "9-26": {
+      "items": [
+        {
+          "id": "arrive-zg4uyvum",
+          "title": "Arrive in Barovia Village",
+          "color": "#4e3e3e"
+        },
+        {
+          "id": "gerolt-egz9evl8",
+          "title": "Gerolt Leaves",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "6-17": {
+      "items": [
+        {
+          "id": "attack-zjqprz9g",
+          "title": "Attack on Ravenloft",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "9-20": {
+      "items": [
+        {
+          "id": "attack-zhinttd0",
+          "title": "Attacks start on Barovia Village",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "6-20": {
+      "items": [
+        {
+          "id": "dusk-e-ziz6oe0u",
+          "title": "Dusk Elf Omen",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

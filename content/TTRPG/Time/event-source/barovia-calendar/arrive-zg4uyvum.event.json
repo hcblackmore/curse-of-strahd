@@ -1,0 +1,16 @@
+{
+  "id": "arrive-zg4uyvum",
+  "calendarId": "barovia-calendar",
+  "title": "Arrive in Barovia Village",
+  "date": {
+    "year": 735,
+    "monthIndex": 9,
+    "day": 26
+  },
+  "description": "We arrive in barovia village",
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "noteRef": "Session Notes/Session 4.md",
+  "createdAt": "2026-08-02T15:56:22.810Z",
+  "updatedAt": "2026-08-08T13:17:40.563Z"
+}

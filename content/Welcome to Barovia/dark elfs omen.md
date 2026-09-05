@@ -1,0 +1,1 @@
+3 days after the attack [[Strahd von Zarovich]] sends a [[Rahadin]] to warn the people of [[Barovia - Village]] that they will be attacking the village

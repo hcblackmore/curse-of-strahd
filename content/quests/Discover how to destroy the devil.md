@@ -1,0 +1,1 @@
+Talk to [[Madam Eva]], a [[Vistani]] seer and sage who dwells at [[Tser Pool]]

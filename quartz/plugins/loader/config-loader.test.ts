@@ -36,7 +36,14 @@ describe("position assignment", () => {
     const component = makeComponent("MyPlugin")
     componentRegistry.register("my-plugin", component, "test-source")
 
+<<<<<<< HEAD
     const result = buildLayoutForEntries([makeEntry("my-plugin", { position: "left", priority: 10 })], {})
+=======
+    const result = buildLayoutForEntries(
+      [makeEntry("my-plugin", { position: "left", priority: 10 })],
+      {},
+    )
+>>>>>>> 075afd3f712da0088a07f5284a7b3aba37dd61b6
     assert.deepStrictEqual(result.left, [component])
   })
 
@@ -102,10 +109,14 @@ describe("defaultPosition fallback", () => {
       defaultPosition: "right",
     })
 
+<<<<<<< HEAD
     const result = buildLayoutForEntries(
       [makeEntry("p", { position: "left", priority: 10 })],
       {},
     )
+=======
+    const result = buildLayoutForEntries([makeEntry("p", { position: "left", priority: 10 })], {})
+>>>>>>> 075afd3f712da0088a07f5284a7b3aba37dd61b6
     assert.deepStrictEqual(result.left, [component])
     assert.deepStrictEqual(result.right, [])
   })
@@ -290,11 +301,25 @@ describe("buildLayoutForEntries with constructors", () => {
     componentRegistry.setOptionOverrides("merge-plugin", { extra: true })
 
     const result = buildLayoutForEntries(
+<<<<<<< HEAD
       [{ source: "merge-plugin", enabled: true, options: { base: 1 }, layout: { position: "right" as LayoutPosition, priority: 10 } }],
+=======
+      [
+        {
+          source: "merge-plugin",
+          enabled: true,
+          options: { base: 1 },
+          layout: { position: "right" as LayoutPosition, priority: 10 },
+        },
+      ],
+>>>>>>> 075afd3f712da0088a07f5284a7b3aba37dd61b6
       {},
     )
     assert.strictEqual(result.right?.length, 1)
   })
 })
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 075afd3f712da0088a07f5284a7b3aba37dd61b6
